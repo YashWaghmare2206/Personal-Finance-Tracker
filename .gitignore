@@ -1,0 +1,61 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.tmp
+*.bak
+
+# Generated files
+target/
+build/
+out/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Environment & Config Files ###
+.env
+*.env
+*.properties
+*.yml
+*.yaml
+config/
+secrets/
+application.properties
+application.yml
+application-dev.properties
+application-prod.properties
