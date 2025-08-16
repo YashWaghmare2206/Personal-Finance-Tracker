@@ -59,28 +59,28 @@ FinanceTracker/
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Register Page
-![Register Page](./screenshots/Register Page.png)
+![Register_Page](./screenshots/Register_Page.png)
 
 ### Login Page
 ![Login](./screenshots/Login.png)
 
 ### Transactions
-![Transactions](./screenshots/All Transactions.png)
+![All_Transactions](./screenshots/All_Transactions.png)
 
 ### Balance
 ![Balance](./screenshots/Balance.png)
 
 ### Add Transaction
-![Add Transaction](./screenshots/Add Transaction.png)
+![Add_Transaction](./screenshots/Add_Transaction.png)
 
 ### Monthly Transactions
-![Monthly Transactions](./screenshots/Monthly Transactions.png)
+![Monthly_Transactions](./screenshots/Monthly_Transactions.png)
 
 ### Delete Transaction
-![Delete Transaction](./screenshots/Delete Transaction.png)
+![Delete_Transaction](./screenshots/Delete_Transaction.png)
 
 ### Search Transactions by Date Range
-![Search Transactions by Date Range](./screenshots/Search Transactions by Date Range.png)
+![Search_Transactions_by_Date_Range](./screenshots/Search_Transactions_by_Date_Range.png)
 
 ### And Much More 
 
